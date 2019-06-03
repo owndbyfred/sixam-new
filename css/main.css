@@ -1,0 +1,26 @@
+.info-section {
+  margin-top: 20px;
+}
+
+.navbar-wrapper ul li :hover {
+  color: teal;
+  transition: all 0.5s ease-out;
+}
+
+.follow-section .fa-4x {
+  margin: 10px 20px;
+}
+
+.separator {
+  height: 6rem;
+}
+
+.follow-section i:hover {
+  color: teal;
+  transition: all 0.5s ease-out;
+}
+
+.hover-icon i:hover {
+  color: teal;
+  transition: all 0.5s ease-out;
+}
