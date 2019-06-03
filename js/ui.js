@@ -11,3 +11,8 @@ document.addEventListener("DOMContentLoaded", function() {
     interval: 10000
   });
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+  var elems = document.querySelectorAll(".scrollspy");
+  var instances = M.ScrollSpy.init(elems, {});
+});
