@@ -9,6 +9,11 @@
 
 .follow-section .fa-4x {
   margin: 10px 20px;
+
+}
+
+.follow-section {
+  margin-top: 2rem;
 }
 
 .separator {
@@ -24,3 +29,4 @@
   color: teal;
   transition: all 0.5s ease-out;
 }
+
